@@ -1,13 +1,14 @@
-# 👋 Hi, I'm Sourav Sarkar
+# # 👋 Hi, I'm Sourav Sarkar
 
-### Backend Engineer | Systems & Cloud
+### System Master | Backend, Cloud & Security
 
-I’m a Software Engineer focused on building reliable backend systems,
-scalable architectures, cloud infrastructure, and secure applications.
+I’m a System Master focused on understanding and building reliable
+backend systems, scalable architectures, cloud infrastructure,
+networking, security and connected systems.
 
 I enjoy understanding systems from the fundamentals — from backend APIs,
-databases and Linux to networking, cloud infrastructure, security,
-distributed systems and IoT.
+databases and Linux to networking, cloud infrastructure, distributed
+systems, security and IoT.
 
 ---
 
